@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/zulite.erp/static/css/main.f855e6bc.css",
+    "main.js": "/zulite.erp/static/js/main.c4e3b3d4.js",
+    "static/js/453.79979195.chunk.js": "/zulite.erp/static/js/453.79979195.chunk.js",
+    "service-worker.js": "/zulite.erp/service-worker.js",
+    "static/media/logo.svg": "/zulite.erp/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/zulite.erp/index.html",
+    "main.f855e6bc.css.map": "/zulite.erp/static/css/main.f855e6bc.css.map",
+    "main.c4e3b3d4.js.map": "/zulite.erp/static/js/main.c4e3b3d4.js.map",
+    "453.79979195.chunk.js.map": "/zulite.erp/static/js/453.79979195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c4e3b3d4.js"
+  ]
+}
